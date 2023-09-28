@@ -3,10 +3,12 @@ title: "Producing Parameterised Reports using {purrr} and {quarto}"
 subtitle: "Reprex of a workflow for producing parameterised reports using the {nycflights13} dataset"
 institute: "Newcastle upon Tyne Hospitals NHS Foundation Trust"
 author: "Daniel Weiand" 
-#date: "`r format(Sys.time(), '%a %B %d %Y')`" 
+date: "`r format(Sys.time(), '%a %B %d %Y')`" 
 date: today
 date-format: "dddd, D MMMM, YYYY"
 self-contained: true
+
+TEST
 
 # #Some options need to be set in format > html
 format:
